@@ -14,3 +14,6 @@
 .nav__ul__border:hover{
     transform: scale(1.05);
 }
+.ms-1 {
+    padding-left: .5cm;
+  }
