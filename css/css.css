@@ -1,0 +1,16 @@
+.body__footer{ 
+    position: fixed;
+    background: rgb(247, 69, 69);
+    height: 25px;
+    bottom: 0cm;
+    left: 0cm;
+    right: 0cm;
+}
+
+.ul__border:hover{
+    transform: scale(1.05);
+}
+
+.nav__ul__border:hover{
+    transform: scale(1.1);
+}
